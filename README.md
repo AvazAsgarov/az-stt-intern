@@ -52,4 +52,4 @@ python part_b/asr_finetuning.py
 ```
 
 ## Müəllif
-[Sizin Adınız]
+Avaz Asgarov
