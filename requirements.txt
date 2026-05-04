@@ -1,0 +1,16 @@
+torch
+torchaudio
+transformers
+jiwer
+pandas
+numpy
+tqdm
+librosa
+soundfile
+evaluate
+datasets
+accelerate
+bitsandbytes
+scipy
+ipywidgets
+jupytext
